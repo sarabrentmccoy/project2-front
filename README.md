@@ -1,14 +1,21 @@
 # project2-front
 
 to my backend repo: https://github.com/sarabrentmccoy/project2-api
+USED: HTML, (Jeff's words) Frankenstein Bootstrap, CSS, jQuery, AJAX, Javascript
 
 I made an app that began as something like Yelp for more amorphous city needs -- places to kill time by yourself, public spaces in which to sit (not just parks or places like Dewey Square with city-owned seating), and so on. It soon morphed into a crowd-sourced listing of public spaces to spend time -- places where you didn't necessarily have to buy anything, and places not necessarily immediately thought of us public spaces. It could include business plazas that have something nice about them (Shady! Quiet! Perfect-range people-watching!) or semi-dormant staircases on which to sit and read a book, wait on a friend, or call your mom. Ideally each "site" entry will soon be associated with various activity tags, and will be able to be upvoted by other users. 
+
+
 
 
 (IDEAL) USER STORIES TODAY
 An unregistered user can search for sites by neighborhood, coverage (from the sun -- do you want somewhere warm? Somewhere shady?), or busy-ness/level of activity (Somewhere busy, for people-watching? Somewhere quiet, for having a difficult conversation with someone else?). They cannot vote for sites, and they cannot post new ones.
 
 A registered user can search for sites, vote for sites, and post new ones. They can delete or update those which they authored.
+
+
+UNSOLVED PROBLEMS
+Can't update sites, see a GET, delete. 
 
 
 
